@@ -1,0 +1,14 @@
+{
+  "name": "tree-data-structure",
+  "version": "1.0.0",
+  "description": "tree data structure practice",
+  "main": "Tree.js",
+  "scripts": {
+    "test": "jest tree.test.js --watch"
+  },
+  "author": "zach mansell",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
